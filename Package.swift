@@ -21,10 +21,10 @@ let package = Package(
     ],
     targets: [
         .binaryTarget(name: "StreamChat",
-                      url: "https://github.com/GetStream/stream-chat-swift/releases/download/4.81.0/StreamChat.zip",
-                      checksum: "94ed060e0f7b926f2982c3129d0fd0ac504ffc35cb0707fac0538515cb2633cf"),
+                      url: "https://github.com/GetStream/stream-chat-swift/releases/download/4.82.0/StreamChat.zip",
+                      checksum: "cdd9155e8117e6488ca87ae6913bcfda124114d8ebc6e7f62f6090db01c855be"),
         .binaryTarget(name: "StreamChatUI",
-                      url: "https://github.com/GetStream/stream-chat-swift/releases/download/4.81.0/StreamChatUI.zip",
-                      checksum: "93f7512b7c10ab481df8ee79114fe5ac2f5cf7fa646a8eb71b81d954da17c33b")
+                      url: "https://github.com/GetStream/stream-chat-swift/releases/download/4.82.0/StreamChatUI.zip",
+                      checksum: "5ce2701f70ba5a29a6e2d23732f00430dee8eeb9e8b0400db98a00f91047b023")
     ]
 )
